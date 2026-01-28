@@ -1,6 +1,6 @@
 # Linear Algebra Visualizations with Manim
 
-Create 3Blue1Brown-style mathematical animations for your blog!
+Create 3Blue1Brown-style mathematical animations!
 
 ## Quick Start
 
